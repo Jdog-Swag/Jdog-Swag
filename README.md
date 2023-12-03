@@ -1,4 +1,4 @@
-- hey
+-hammed burger
 
 <!---
 JdogGamezYT/JdogGamezYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
